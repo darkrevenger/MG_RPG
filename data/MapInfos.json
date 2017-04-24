@@ -1,7 +1,7 @@
 [
 null,
-{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":534,"scrollY":297.5},
+{"id":1,"expanded":true,"name":"Camino a la montaña","order":1,"parentId":0,"scrollX":534,"scrollY":1142.5},
 {"id":2,"expanded":false,"name":"Oscuridad","order":3,"parentId":0,"scrollX":534,"scrollY":318.5},
-null,
-{"id":4,"expanded":true,"name":"Casa Abuelo","order":2,"parentId":0,"scrollX":534,"scrollY":307.5}
+{"id":3,"expanded":false,"name":"Cueva montaña","order":4,"parentId":0,"scrollX":534,"scrollY":305.5},
+{"id":4,"expanded":true,"name":"Casa Abuelo","order":2,"parentId":0,"scrollX":534,"scrollY":318.5}
 ]
