@@ -4,7 +4,7 @@ null,
 {"id":2,"expanded":true,"name":"Intro","order":1,"parentId":0,"scrollX":534,"scrollY":318.5},
 {"id":3,"expanded":true,"name":"Afueras de la cueva","order":5,"parentId":2,"scrollX":534,"scrollY":297.5},
 {"id":4,"expanded":true,"name":"Casa Abuelo","order":2,"parentId":2,"scrollX":534,"scrollY":318.5},
-{"id":5,"expanded":true,"name":"Jardin rey","order":6,"parentId":2,"scrollX":832,"scrollY":640},
+{"id":5,"expanded":true,"name":"Jardin rey","order":6,"parentId":2,"scrollX":534,"scrollY":418.5},
 {"id":6,"expanded":false,"name":"Cueva montaña","order":4,"parentId":2,"scrollX":534,"scrollY":318.5},
-{"id":7,"expanded":false,"name":"Casa Shad2","order":7,"parentId":2,"scrollX":832,"scrollY":640}
+{"id":7,"expanded":false,"name":"Casa Shad2","order":7,"parentId":2,"scrollX":534,"scrollY":318.5}
 ]
