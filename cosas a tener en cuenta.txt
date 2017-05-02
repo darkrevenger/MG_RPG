@@ -1,0 +1,10 @@
+<br> Pasar una linea
+
+\C[6]Color para dar oro
+Shad recibe 100\G
+
+\C[10]Color para hacer daño
+Shad sufre 10 puntos de daño.
+
+\C[3]Color para dar pocion.
+Shad recibe pocion.
