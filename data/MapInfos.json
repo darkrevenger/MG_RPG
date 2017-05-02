@@ -6,8 +6,8 @@ null,
 {"id":4,"expanded":true,"name":"Casa Abuelo","order":2,"parentId":2,"scrollX":534,"scrollY":318.5},
 {"id":5,"expanded":true,"name":"Jardin rey","order":6,"parentId":2,"scrollX":668,"scrollY":422.5},
 {"id":6,"expanded":false,"name":"Cueva montaña","order":4,"parentId":2,"scrollX":532,"scrollY":318.5},
-{"id":7,"expanded":true,"name":"Pieza Shad2","order":7,"parentId":2,"scrollX":532,"scrollY":305.5},
-{"id":8,"expanded":false,"name":"Afuera casa Shad","order":8,"parentId":2,"scrollX":908,"scrollY":422.5},
+{"id":7,"expanded":true,"name":"Pieza Shad2","order":7,"parentId":2,"scrollX":532,"scrollY":318.5},
+{"id":8,"expanded":false,"name":"Afuera casa Shad","order":8,"parentId":2,"scrollX":892,"scrollY":406.5},
 null,
 {"id":10,"expanded":false,"name":"Pieza Shad","order":9,"parentId":2,"scrollX":532,"scrollY":318.5}
 ]
