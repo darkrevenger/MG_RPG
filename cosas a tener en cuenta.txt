@@ -1,3 +1,8 @@
+Para ponerlo a shad "tirado en el piso "mirando para arriba"
+Hay que usar la imagen de el tirado en el piso mirando hacia arriba y 
+luego asegurarse de que este mirando hacia abajo (osea poner "GIRAR HACIA ABAJO")
+porque sino no va a aparecer la imagen 
+
 <br> Pasar una linea
 
 \C[6]Color para dar oro
