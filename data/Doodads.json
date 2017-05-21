@@ -15875,21 +15875,21 @@
     {
       "folder": "Plants/Trees/",
       "bitmap": "Tree A",
-      "hue": 0,
+      "hue": 220,
       "x": 552,
       "y": 400,
-      "z": 3,
+      "z": 4,
       "iconIndex": 0,
       "anchorX": 0.5,
       "anchorY": 1,
-      "scaleX": 600,
-      "scaleY": 600,
-      "blend": 0,
-      "opacity": 255,
+      "scaleX": 100,
+      "scaleY": 100,
+      "blend": 1,
+      "opacity": 178,
       "xFrames": 1,
       "yFrames": 1,
       "frameUpdate": 20,
-      "smooth": false
+      "smooth": true
     }
   ],
   null,
